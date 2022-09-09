@@ -1,5 +1,7 @@
 # Lighthouse Labs | Multimedia in Ruby with Gosu
 
+![LHL Instructor Warren Uhrich: Multimedia in Ruby w/Gosu](https://github.com/WarrenUhrich/lighthouse-labs-multimedia-in-ruby-with-gosu/blob/main/media/header.png?raw=true)
+
 ## Getting Started with Gosu
 
 > **Gosu (고수)**: person at an expert skill level; someone who has achieved mastery of a skill. [*Korean in origin*.]
