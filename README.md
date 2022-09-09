@@ -2,6 +2,26 @@
 
 ![LHL Instructor Warren Uhrich: Multimedia in Ruby w/Gosu](https://github.com/WarrenUhrich/lighthouse-labs-multimedia-in-ruby-with-gosu/blob/main/media/header.png?raw=true)
 
+## Running this Example
+
+If you'd like to run this example, clone a copy down to your computer:
+
+```Bash
+# Clone the repository
+git clone https://github.com/WarrenUhrich/lighthouse-labs-multimedia-in-ruby-with-gosu.git
+
+# Navigate into the project directory
+cd lighthouse-labs-multimedia-in-ruby-with-gosu
+```
+
+Now run any one of the existing examples. The full game can be run via:
+
+```Bash
+ruby 07-CollectionGame.rb
+```
+
+Having trouble? Ensure you have installed the Gosu gem and its dependencies.
+
 ## Getting Started with Gosu
 
 > **Gosu (고수)**: person at an expert skill level; someone who has achieved mastery of a skill. [*Korean in origin*.]
